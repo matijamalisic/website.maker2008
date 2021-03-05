@@ -1,5 +1,5 @@
                                            Reklamni WEBSITE-ovi Berane
-Pravim i updatujem reklamne websiteove poput ovog, za reklamiranje agencija, hotela, restorana, dječijih igraonica i sličnog.
+Pravim i updatujem reklamne websiteove poput ovog, za reklamiranje agencija, hotela, restorana, dječijih igraonica i sličnog. </br>
 Cijena pravljenja website-a je 50e
 Cijena updatovanja website-a je 10e
 lokacija: Berane
